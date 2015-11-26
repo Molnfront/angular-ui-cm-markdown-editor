@@ -1,3 +1,10 @@
+#Quick Start
+- Clone this repo
+- Start Terminal and cd to the repo.
+- Run python -m SimpleHTTPServer
+- Open web browser: localhost:8000
+
+
 This script combines some script i found on internet, using popular libraries such as [marked](https://github.com/chjj), 
 [codemirror](http://codemirror.net/), [highlightjs](https://highlightjs.org/), [lodash](https://lodash.com/) to provide a simple instant 
 translate [markdown](https://help.github.com/articles/markdown-basics/) syntax to HTML **Editor**, it also provide angular directive option with 2 ways data binding.
